@@ -1,0 +1,9 @@
+{
+    "name": "talis/php-cloud-files",
+    "type": "library",
+    "homepage": "http://talis.com",
+    "authors": [{
+        "name": "Talis",
+        "email": "cc@talis.com"
+    }]
+}
